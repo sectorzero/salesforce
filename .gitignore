@@ -1,0 +1,29 @@
+# IntelliJ
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+
+# Gradle
+gradle
+\.gradle
+gradlew
+gradlew.bat
+
+build
+
+# Log files
+log/
+*.log
+
+# Mac
+.DS_Store
+*.iml
+.idea/
+
+# Vim
+*.sw?
