@@ -1,7 +1,6 @@
 ## Problem
-* [Documentation & Implementation](src/main/java/Class.java)
-* [Unit-Test](src/test/java/ClassTest.java)
+* [Documentation & Implementation](src/main/java/org/sectorzero/InfixEvaluation.java)
+* [Unit-Test](src/test/java/org/sectorzero/InfixEvaluationTest.java)
 * Build & Test
   * gradle build
   * gradle test
-  * gradle run / install
